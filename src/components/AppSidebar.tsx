@@ -114,8 +114,7 @@ export function AppSidebar({ isMobile, open = false, onClose }: AppSidebarProps)
         {!collapsed && (
           <div className="flex items-center justify-between gap-2 w-full overflow-hidden">
             <div className="overflow-hidden">
-              <h1 className="font-semibold text-foreground truncate">BrandFrame AI</h1>
-              <p className="text-xs text-muted-foreground">Text to Image</p>
+              <h1 className="font-semibold text-foreground truncate">LensFuse</h1>
             </div>
             {/* Mobile close button */}
             {isMobile && (

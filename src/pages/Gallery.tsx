@@ -73,7 +73,7 @@ const Gallery = () => {
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-8">
         <div>
           <h1 className="text-3xl font-bold text-foreground mb-2">Gallery</h1>
-          <p className="text-muted-foreground">Browse your generated masterpieces</p>
+          <p className="text-muted-foreground">View and Download your generated masterpieces</p>
         </div>
         <div className="relative w-full sm:w-72">
           <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground" />
