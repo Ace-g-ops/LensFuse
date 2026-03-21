@@ -41,7 +41,7 @@ export function Layout({ children }: LayoutProps) {
               <Menu className="h-5 w-5" />
               <span className="sr-only">Open sidebar</span>
             </Button>
-            <span className="font-semibold text-sm">BrandFrame AI</span>
+            <span className="font-semibold text-sm">LensFuse</span>
           </div>
         )}
 
