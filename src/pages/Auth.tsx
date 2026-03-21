@@ -70,7 +70,7 @@ const Auth = () => {
             <Sparkles className="w-8 h-8 text-primary" />
           </div>
           <h1 className="text-3xl font-bold text-foreground">LensFuse</h1>
-          <p className="text-muted-foreground mt-2">Studio Quality. Minus the Studio.</p>
+          <p className="text-muted-foreground mt-2">Studio Qualit. Minus the Studio.</p>
         </div>
 
         <Card className="glass border-border/50">
