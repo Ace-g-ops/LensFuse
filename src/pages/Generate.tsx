@@ -173,7 +173,7 @@ const Generate = () => {
       {/* Header */}
       <div className="mb-8">
         <h1 className="text-3xl font-bold text-foreground mb-2">Generate</h1>
-        <p className="text-muted-foreground">Transform your ideas into stunning images with AI</p>
+        <p className="text-muted-foreground">Transform your ideas into stunning images with LensFuse.</p>
       </div>
 
       <div className="grid lg:grid-cols-2 gap-8">
